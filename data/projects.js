@@ -1,36 +1,43 @@
 export const ProjectData = [
   {
-    title: 'mintibbl',
-    description: 'Draw, guess, and mint with your frens!',
-    href: 'https://mintibbl.fun',
+    title: 'Bartrr',
+    description: 'The first cryptocurrency betting platform that allows you to create irreversible wagers',
+    href: 'https://bartrr.xyz',
     icon: 'dino-rex',
   },
   {
-    title: 'cryptip.me',
-    description: 'The friendly way to accept tips in ETH.',
-    href: 'https://cryptip.me',
+    title: 'Alta Finance',
+    description: 'Transforming real estate investing with Web3.',
+    href: 'https://alta.finance',
     icon: 'donate-heart',
   },
   {
-    title: 'Buildspace N&W S1 Pass',
+    title: 'Maxx Finance',
     description:
-      'Get access to Founders, Inc. in San Francisco. Receive GTFOL notifications daily.',
-    href: 'https://nwpass.vercel.app/',
+      'The first fair launched time-locked staking system on the blockchain.',
+    href: 'https://maxx.finance',
     icon: 'ticket',
   },
   {
-    title: 'EthpassKit',
+    title: 'Shoply',
     description:
-      'A React component library for generating mobile NFT passes to use with ethpass API.',
-    href: 'https://ethpasskit.vercel.app/',
-    icon: 'components',
+      'Web3 Shopify.',
+    href: 'https://shoply.io',
+    icon: 'ticket',
   },
-  {
-    title: 'NFT Floor Diff',
-    description: 'NFT marketplace floor price difference aggregator.',
-    href: 'https://nftfloordiff.com',
-    icon: 'layer-group',
-  },
+  // {
+  //   title: 'EthpassKit',
+  //   description:
+  //     'A React component library for generating mobile NFT passes to use with ethpass API.',
+  //   href: 'https://ethpasskit.vercel.app/',
+  //   icon: 'components',
+  // },
+  // {
+  //   title: 'NFT Floor Diff',
+  //   description: 'NFT marketplace floor price difference aggregator.',
+  //   href: 'https://nftfloordiff.com',
+  //   icon: 'layer-group',
+  // },
   // {
   //   title: 'web3slinger.dev',
   //   description: "The website you're currently on! Made with Next.js and Tailwind CSS.",
