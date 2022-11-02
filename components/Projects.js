@@ -1,5 +1,6 @@
 import { ProjectData } from '../data/projects'
 import { GiDinosaurRex, GiPayMoney, GiSpiderMask } from 'react-icons/gi'
+import { MdOutlineRealEstateAgent } from 'react-icons/md'
 import { RiCheckboxMultipleBlankFill } from 'react-icons/ri'
 import { TiTicket } from 'react-icons/ti'
 import { CgComponents } from 'react-icons/cg'
@@ -15,6 +16,7 @@ const ProjectCard = ({ title, description, href, icon }) => {
     >
       <div className="flex items-center justify-center w-full mb-4 mr-6 text-4xl sm:w-1/12 sm:mb-0">
         {icon === 'dino-rex' ? <GiDinosaurRex /> : null}
+        {icon === 'real-estate' ? <RiCheckboxMultipleBlankFill /> : null}
         {icon === 'donate-heart' ? <GiPayMoney /> : null}
         {icon === 'layer-group' ? <RiCheckboxMultipleBlankFill /> : null}
         {icon === 'ticket' ? <TiTicket /> : null}

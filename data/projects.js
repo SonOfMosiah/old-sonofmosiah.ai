@@ -3,13 +3,13 @@ export const ProjectData = [
     title: 'Bartrr',
     description: 'The first cryptocurrency betting platform that allows you to create irreversible wagers',
     href: 'https://bartrr.xyz',
-    icon: 'dino-rex',
+    icon: 'donate-heart',
   },
   {
     title: 'Alta Finance',
     description: 'Transforming real estate investing with Web3.',
     href: 'https://alta.finance',
-    icon: 'donate-heart',
+    icon: 'real-estate',
   },
   {
     title: 'Maxx Finance',
